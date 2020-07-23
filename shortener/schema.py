@@ -25,7 +25,7 @@ class Query(graphene.ObjectType):
 
         if skip:
             queryset = queryset[skip:]
-            
+
         return queryset
 
 
@@ -35,7 +35,8 @@ class CreateURL(graphene.Mutation):
     class Arguments:
         full_url = graphene.String()
 
-    def mutate(self, info, full_url)
+    def mutate(self, info, full_url):
+    
         url = URL(full_url=full_url)
         url.save()
 
