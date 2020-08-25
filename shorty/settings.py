@@ -25,7 +25,7 @@ SECRET_KEY = '2jd+9y@ie8j%l8y$b)@@5#1jgo$i$ktiax(+z_066&dnbd7m8e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['octrixshortener.herokuapp.com']
 
 
 # Application definition
