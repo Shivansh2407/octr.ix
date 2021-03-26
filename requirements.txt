@@ -80,7 +80,7 @@ python-nmap==0.6.1
 python-secrets==20.8.1
 pytz==2020.1
 pywin32-ctypes==0.2.0
-PyYAML==5.3.1
+PyYAML==5.4
 qrcode==6.1
 requests==2.20.0
 six==1.14.0
