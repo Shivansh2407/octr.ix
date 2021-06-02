@@ -101,7 +101,7 @@ termcolor==1.1.0
 toml==0.10.1
 tox==3.19.0
 typing-extensions==3.7.4.2
-urllib3==1.24.2
+urllib3==1.26.5
 verboselogs==1.7
 virtualenv==20.0.17
 virtualenvwrapper-win==1.2.6
