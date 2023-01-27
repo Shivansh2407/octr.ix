@@ -54,7 +54,7 @@ mysql-connector-python==8.0.20
 networkx==2.4
 nmap==0.0.1
 numpy==1.18.4
-onnx==1.7.0
+onnx==1.13.0
 opt-einsum==3.2.1
 ordered-set==4.0.2
 packaging==20.4
